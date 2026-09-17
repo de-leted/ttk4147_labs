@@ -1,0 +1,57 @@
+0: Task 0: initiated in idle 
+0: Task 1: initiated in idle 
+0: Task 2: initiated in idle 
+0: Task 3: initiated in idle 
+0: Task 4: initiated in idle 
+0: Task 0: idle -> running, total time worked: 0 
+20: Task 1: idle -> running, total time worked: 0 
+20: Task 0: running -> preempted, total time worked: 20 
+30: Task 0: preempted -> running, total time worked: 20 
+30: Task 1: running -> preempted, total time worked: 10 
+40: Task 1: preempted -> running, total time worked: 10 
+40: Task 0: running -> preempted, total time worked: 30 
+49: Task 1: running -> preempted, total time worked: 19 
+50: Task 2: idle -> running, total time worked: 0 
+59: Task 3: idle -> running, total time worked: 0 
+60: Task 2: running -> preempted, total time worked: 10 
+70: Task 3: running -> preempted, total time worked: 11 
+70: Task 0: preempted -> running, total time worked: 30 
+80: Task 1: preempted -> running, total time worked: 19 
+80: Task 0: running -> preempted, total time worked: 40 
+90: Task 2: preempted -> running, total time worked: 10 
+90: Task 1: running -> preempted, total time worked: 29 
+100: Task 3: preempted -> running, total time worked: 11 
+100: Task 2: running -> preempted, total time worked: 20 
+110: Task 3: running -> preempted, total time worked: 21 
+110: Task 4: idle -> running, total time worked: 0 
+120: Task 0: preempted -> running, total time worked: 40 
+120: Task 4: running -> preempted, total time worked: 10 
+130: Task 0: running -> preempted, total time worked: 50 
+130: Task 1: preempted -> running, total time worked: 29 
+140: Task 2: preempted -> running, total time worked: 20 
+140: Task 1: running -> preempted, total time worked: 39 
+150: Task 2: running -> preempted, total time worked: 30 
+150: Task 3: preempted -> running, total time worked: 21 
+160: Task 4: preempted -> running, total time worked: 10 
+160: Task 3: running -> preempted, total time worked: 31 
+170: Task 4: running -> finished, total time worked: 20 
+170: Task 0: preempted -> running, total time worked: 50 
+180: Task 0: running -> preempted, total time worked: 60 
+180: Task 1: preempted -> running, total time worked: 39 
+190: Task 2: preempted -> running, total time worked: 30 
+190: Task 1: running -> preempted, total time worked: 49 
+200: Task 2: running -> finished, total time worked: 40 
+200: Task 3: preempted -> running, total time worked: 31 
+210: Task 3: running -> preempted, total time worked: 41 
+210: Task 0: preempted -> running, total time worked: 60 
+220: Task 0: running -> preempted, total time worked: 70 
+220: Task 1: preempted -> running, total time worked: 49 
+230: Task 3: preempted -> running, total time worked: 41 
+230: Task 1: running -> preempted, total time worked: 59 
+239: Task 3: running -> finished, total time worked: 50 
+240: Task 0: preempted -> running, total time worked: 70 
+250: Task 1: preempted -> running, total time worked: 59 
+251: Task 1: running -> finished, total time worked: 60 
+250: Task 0: running -> preempted, total time worked: 80 
+251: Task 0: preempted -> running, total time worked: 80 
+321: Task 0: running -> finished, total time worked: 150 
